@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Shreya!</h1>
 
-<a href="https://shreyamrao.vercel.app/">Portfolio</a>
+<a href="https://shreyamrao.vercel.app/">Portfolio</a> <br>
 🌱 I’m currently learning: React.js, Springboot <br>
 🔭 I’m interested in: full stack web dev, cybersecurity <br>
 📫 How to reach me: shreyamrao@gmail.com
