@@ -24,7 +24,7 @@
 <h3>Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-rao-0534a2280/)
-[![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreya_mrao/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreya_mrao/) -->
   
 [![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=smr29)](https://github.com/smr29/github-readme-stats)
 
