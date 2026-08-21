@@ -1,9 +1,12 @@
 <h1 align="center">Hey, I'm Shreya!</h1>
 
-<a href="https://shreyamrao.vercel.app/">Portfolio</a> <br><br>
-🌱 I’m currently learning: React.js, Springboot <br>
-🔭 I’m interested in: full stack web dev, cybersecurity <br>
-📫 How to reach me: shreyamrao@gmail.com
+Check out my <a href="https://shreyamrao.vercel.app/">portfolio</a>
+
+🌱 I’m currently learning: Sailpoint <br>
+🔭 I’m interested in: Cybersecurity and Java <br>
+📫 How to reach me: <br>
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyamrao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-matti-rao)
 
 <h3>Technologies Used:</h3>
 
@@ -20,14 +23,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-<h3>Connect with me:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-rao-0534a2280/)
-<!-- [![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreya_mrao/) -->
-  
-[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=smr29)](https://github.com/smr29/github-readme-stats)
-
 <!--
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 -->
+
+<!-- [![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=smr29)](https://github.com/smr29/github-readme-stats) -->
